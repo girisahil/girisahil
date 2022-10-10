@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @girisahil
+- 👀 I’m interested in Computer Networking and Data Science
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on anything related to computer networks and data analysis
+- 📫 How to reach me girisahil12@gmail.com
